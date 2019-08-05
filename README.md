@@ -2,7 +2,7 @@ Hey!
 
 Instructions to run the code:
 
-Requires numpy, cv2, imutils.
+Requires numpy, opecv-python, imutils.
 These can be installed by: 
 
 To run:
