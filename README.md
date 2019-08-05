@@ -10,3 +10,5 @@ python yolo_opencv.py -i hockey-1.png -c yolo.cfg -w yolov3.weights -cl classes.
 
 Training Models
 https://medium.com/@manivannan_data/how-to-train-yolov3-to-detect-custom-objects-ccbcafeb13d2
+
+https://medium.com/coinmonks/detecting-custom-objects-in-images-video-using-yolo-with-darkflow-1ff119fa002f
