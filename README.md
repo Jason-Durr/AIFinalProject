@@ -15,6 +15,8 @@ pip install imutils
 To run:
 ```
 python yolo_opencv.py -i hockey-1.png -c yolo.cfg -w yolov3.weights -cl classes.txt
+
+python yolo_video_opencv.py -i cv-hockey-1.mp4 -y .\ -o test.mp4
 ```
 
 ## Training Models
