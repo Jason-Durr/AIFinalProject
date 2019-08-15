@@ -24,6 +24,8 @@ https://medium.com/@manivannan_data/how-to-train-yolov3-to-detect-custom-objects
 
 https://medium.com/coinmonks/detecting-custom-objects-in-images-video-using-yolo-with-darkflow-1ff119fa002f
 
+./darknet detector train cfg/player6-obj.data cfg/player6-yolov3-tiny.cfg darknet53.conv.74
+
 ## Related Research/Work
 
 [Github: BSI Vision](https://github.com/ccweaver1/bsi_vision)
